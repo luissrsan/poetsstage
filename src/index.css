@@ -1,0 +1,57 @@
+a{
+  text-decoration:none;
+  padding:10px;
+}
+
+li{
+  list-style:none;
+line-height:.2rem;
+}
+
+nav{margin-bottom:0px;}
+
+ul{
+  display:flex;
+margin-right:auto;
+margin-bottom:0px;
+}
+
+h1{
+  font-size:100px;
+  text-align:center;
+color:white;
+
+}
+
+.logo{
+  margin-right:auto;
+ Font-size:20px;
+ font-weight:600;
+  line-height:.1rem;
+}
+
+p{
+  text-align:Center;
+color:white;
+}
+
+main{
+  background-image: url('./assets/light.jpg');
+  background-size: cover;
+  height:100vh;
+  margin:10px;
+}
+
+button{
+  font-size:20px;
+  background-color:blanchedalmond;
+margin:10px;
+}
+
+.hero-container{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  width:40%;
+  margin:0 auto;
+}
